@@ -1,0 +1,20 @@
+server:
+    port: ${PORT:8080}
+    servlet:
+        context-path: /
+
+spring:
+    application:
+        name: chatgpt-service
+
+logging:
+    level:
+        root: INFO
+        org.springframework.web: INFO
+
+properties:
+    cors:
+        allowed-origins: ${CORS_ALLOWED_ORIGINS:-*}
+
+chatgpt:
+    api-key: ${CHATGPT_API_KEY}
