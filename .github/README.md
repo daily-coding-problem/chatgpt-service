@@ -1,4 +1,4 @@
-# ChatGPT Spring Boot Starter [![Java CI with Maven](https://github.com/daily-coding-problem/chatgpt-springboot-starter/actions/workflows/maven.yml/badge.svg)](https://github.com/daily-coding-problem/chatgpt-springboot-starter/actions/workflows/maven.yml)
+# ChatGPT Service [![Java CI with Maven](https://github.com/daily-coding-problem/chatgpt-springboot-starter/actions/workflows/maven.yml/badge.svg)](https://github.com/daily-coding-problem/chatgpt-springboot-starter/actions/workflows/maven.yml)
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -36,8 +36,8 @@ Before you begin, ensure you have met the following requirements:
 **Clone the Repository**
 
 ```sh
-git clone https://github.com/daily-coding-problem/chatgpt-springboot-starter.git
-cd chatgpt-springboot-starter
+git clone https://github.com/daily-coding-problem/chatgpt-service.git
+cd chatgpt-service
 ```
 
 **Install Dependencies**
